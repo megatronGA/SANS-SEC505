@@ -1,5 +1,5 @@
 # SANS-SEC505
-The scripts.zip file contains some of the lab files for my SANS Institute course [SEC505: Securing Windows and PowerShell Automation](https://sans.org/sec505).
+The SEC505-Scripts.zip file contains some of the lab files for my SANS Institute course [SEC505: Securing Windows and PowerShell Automation](https://sans.org/sec505).
 
 Most of these same scripts are in repositories here, but the zip has a folder structure that matches more closely the USB flash drive given to SEC505 course attendees.  Virtually all the scripts are intended for teaching purposes, they're not intended to be production-quality tools yet, hence the lack of Pester tests, input validation, exception handling, logging, etc.
 
